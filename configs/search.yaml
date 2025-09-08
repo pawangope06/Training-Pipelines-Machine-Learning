@@ -1,0 +1,5 @@
+enabled: false
+cv: 5
+scoring: accuracy
+n_jobs: -1
+verbose: 1
